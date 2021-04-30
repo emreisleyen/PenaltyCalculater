@@ -1,0 +1,15 @@
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\bin\Debug\net5.0\PenaltyCalculator.Infrastructure.deps.json
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\bin\Debug\net5.0\PenaltyCalculator.Infrastructure.dll
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\bin\Debug\net5.0\ref\PenaltyCalculator.Infrastructure.dll
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\bin\Debug\net5.0\PenaltyCalculator.Infrastructure.pdb
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\bin\Debug\net5.0\PenaltyCalculator.Core.dll
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\bin\Debug\net5.0\PenaltyCalculator.Core.pdb
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\obj\Debug\net5.0\PenaltyCalculator.Infrastructure.csprojAssemblyReference.cache
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\obj\Debug\net5.0\PenaltyCalculator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\obj\Debug\net5.0\PenaltyCalculator.Infrastructure.AssemblyInfoInputs.cache
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\obj\Debug\net5.0\PenaltyCalculator.Infrastructure.AssemblyInfo.cs
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\obj\Debug\net5.0\PenaltyCalculator.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\obj\Debug\net5.0\PenaltyCalculator.Infrastructure.csproj.CopyComplete
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\obj\Debug\net5.0\PenaltyCalculator.Infrastructure.dll
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\obj\Debug\net5.0\ref\PenaltyCalculator.Infrastructure.dll
+D:\PenaltyCalculator\PenaltyCalculator.Infrastructure\obj\Debug\net5.0\PenaltyCalculator.Infrastructure.pdb

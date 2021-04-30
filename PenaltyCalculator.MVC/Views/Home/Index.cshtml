@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model BookDateCheckRequestModel
+
+<form asp-action="Index" method="post" class="form-horizontal" role="form">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="row">
+        <div class="form-group col-6">
+            <label asp-for="CheckoutDate" class="col-3 control-label">Çıkış Tarihi</label>
+            <div class="col-5">
+                <input asp-for="CheckoutDate" class="form-control"/>
+                <span asp-validation-for="CheckoutDate" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group col-6">
+            <label asp-for="ReturnDate" class="col-3 control-label">İade Tarihi</label>
+            <div class="col-5">
+                <input asp-for="ReturnDate" class="form-control"/>
+                <span asp-validation-for="ReturnDate" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Country.Name" class="col-3 control-label"></label>
+        <div class="col-md-5">
+            <select style="border-radius: 8px" asp-for="Country.CountryId" asp-items="@(new SelectList(ViewBag.Countries, "CountryId", "Name"))"></select>
+            <span asp-validation-for="Country.Name" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-5">
+            <input type="submit" class="btn btn-danger" value="Ceza Hesapla"/>
+        </div>
+    </div>
+
+</form>
+
+@if (ViewBag.Result != null)
+{
+    <div class="row">
+        <div class="col-md-7">
+            <div class="alert alert-info" role="alert">
+                <p>Business Days : <span class="badge alert-success">@ViewBag.Result.PenaltyDayCount</span></p>
+                <p>Penalty Price : <span class="badge alert-warning">@ViewBag.Result.PenaltyAmount @ViewBag.Result.Currency</span></p>
+            </div>
+        </div>
+    </div>
+}

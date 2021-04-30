@@ -1,0 +1,12 @@
+D:\PenaltyCalculator\PenaltyCalculator.Core\obj\Debug\net5.0\PenaltyCalculator.Core.csprojAssemblyReference.cache
+D:\PenaltyCalculator\PenaltyCalculator.Core\obj\Debug\net5.0\PenaltyCalculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PenaltyCalculator\PenaltyCalculator.Core\obj\Debug\net5.0\PenaltyCalculator.Core.AssemblyInfoInputs.cache
+D:\PenaltyCalculator\PenaltyCalculator.Core\obj\Debug\net5.0\PenaltyCalculator.Core.AssemblyInfo.cs
+D:\PenaltyCalculator\PenaltyCalculator.Core\obj\Debug\net5.0\PenaltyCalculator.Core.csproj.CoreCompileInputs.cache
+D:\PenaltyCalculator\PenaltyCalculator.Core\bin\Debug\net5.0\PenaltyCalculator.Core.deps.json
+D:\PenaltyCalculator\PenaltyCalculator.Core\bin\Debug\net5.0\PenaltyCalculator.Core.dll
+D:\PenaltyCalculator\PenaltyCalculator.Core\bin\Debug\net5.0\ref\PenaltyCalculator.Core.dll
+D:\PenaltyCalculator\PenaltyCalculator.Core\bin\Debug\net5.0\PenaltyCalculator.Core.pdb
+D:\PenaltyCalculator\PenaltyCalculator.Core\obj\Debug\net5.0\PenaltyCalculator.Core.dll
+D:\PenaltyCalculator\PenaltyCalculator.Core\obj\Debug\net5.0\ref\PenaltyCalculator.Core.dll
+D:\PenaltyCalculator\PenaltyCalculator.Core\obj\Debug\net5.0\PenaltyCalculator.Core.pdb
